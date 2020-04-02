@@ -1,4 +1,4 @@
-%tambah semua elemen
+%jumlahkan semua elemen
 program :- read(LIST), tambah(LIST, X), write(X), nl.
 
 tambah([], 0).

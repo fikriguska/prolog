@@ -1,4 +1,4 @@
-%tambah elemen di index genap
+%jumlahkan elemen di index genap
 program :- read(LIST), tambah(LIST, X), write(X), nl.
 
 tambah([_], 0).

@@ -1,4 +1,4 @@
-%tampilkan list dari elemen-elemen list berindex genap
+%membuat list dari elemen-elemen list berindeks genap
 program :- read(LIST), jadilist(LIST, LIST2), write(LIST2), nl.
 
 jadilist([_], []).

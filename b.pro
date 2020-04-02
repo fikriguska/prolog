@@ -1,3 +1,4 @@
+%jumlahkan elemen di index ganjil
 program :- read(LIST), tambah(LIST, X), write(X), nl.
 
 tambah([], 0).
